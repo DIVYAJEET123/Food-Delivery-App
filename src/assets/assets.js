@@ -1,9 +1,21 @@
 import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import logo_img from './logo_img.png'
+import logo_img2 from './logo_img2.png'
+import logo_img3 from './logo_img3.png'
 import header_img from './header_img.png'
 import header_img2 from './header_img2.jpg'
+import header_img3 from './header_img3.jpg'
+import header_img4 from './header_img4.jpg'
+import header_img5 from './header_img5.jpg'
+import header_img6 from './header_img6.jpg'
+import header_img7 from './header_img7.jpg'
+import header_img8 from './header_img8.jpg'
+import header_img9 from './header_img9.jpg'
+import header_img10 from './header_img10.jpg'
+import header_img11 from './header_img11.jpg'
 import search_icon from './search_icon.png'
+
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
 import menu_3 from './menu_3.png'
@@ -65,9 +77,20 @@ import parcel_icon from './parcel_icon.png'
 export const assets = {
     logo,
     logo_img,
+    logo_img2,
+    logo_img3,
     basket_icon,
     header_img,
     header_img2,
+    header_img3,
+    header_img4,
+    header_img5,
+    header_img6,
+    header_img7,
+    header_img8,
+    header_img9,
+    header_img10,
+    header_img11,
     search_icon,
     rating_starts,
     add_icon_green,

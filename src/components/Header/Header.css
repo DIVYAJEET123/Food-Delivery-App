@@ -1,11 +1,11 @@
 .header{
-    height: 34vw;
+    height: 36vw;
     margin: 30px auto;
-    background: url("/header_img2.jpg");
+    background: url("/header_img10.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
-    border-radius: 8px;
+    border-radius: 16px;
 }
 .header-contents{
     position: absolute;
@@ -20,19 +20,23 @@
 }
 .header-contents h2{
     font-weight: 500;
-    color: white;
+    color: #C1E899;
     font-size: max(4.5vw,22px);
 }
 .header-contents p{
-    color: white;
+    color: #C1E899;
     font-size: 1vw;
 }
 .header-contents button{
     border: none;
-    color: #747474;
+    color: #06c105;
     font-weight: 500;
     padding: 1vw 2.3vw;
-    background-color: white;
+    background-color: #C1E899;
     font-size: max(1vw,13px);
     border-radius: 50px;
+}
+.header-contents button:hover{
+    color: #C1E899;
+    background-color: #06c105;
 }
