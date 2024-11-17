@@ -15,8 +15,8 @@ const FoodDisplay = ({ category }) => {
             .filter(item => category === "All" || item.category === category)
             .map(item => (
               <FoodItem
-                key={item.id}
-                id={item.id}
+                key={item._id}
+                id={item._id}
                 name={item.name}
                 description={item.description}
                 price={item.price}
