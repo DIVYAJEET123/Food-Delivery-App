@@ -44,12 +44,25 @@
     background-color: grey;
     border: none;
 }
+#logo{
+        width: 200px;
+        height: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        font-size: 45px;
+        color: #06c105;
+        font-family: Exo+2; 
+}
 
 @media (max-width:750px){
     .footer-content{
         display: flex;
         flex-direction: column;
         gap: 35px;
+    }
+    #logo{
+        font-size: 30px;
     }
     .footer-copyright{
         text-align: center;

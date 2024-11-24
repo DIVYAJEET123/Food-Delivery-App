@@ -20,11 +20,11 @@
 }
 .header-contents h2{
     font-weight: 500;
-    color: #C1E899;
+    color:lavender;
     font-size: max(4.5vw,22px);
 }
 .header-contents p{
-    color: #C1E899;
+    color: Lavender;
     font-size: 1vw;
 }
 .header-contents button{
@@ -32,12 +32,12 @@
     color: #06c105;
     font-weight: 500;
     padding: 1vw 2.3vw;
-    background-color: #C1E899;
+    background-color: Lavender;
     font-size: max(1vw,13px);
     border-radius: 50px;
 }
 .header-contents button:hover{
-    color: #C1E899;
+    color: Lavender;
     background-color: #06c105;
     cursor: pointer;
 }
